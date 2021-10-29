@@ -24,7 +24,7 @@ banner = colors.cyan + """
  [*]    DEVELOPED BY HIRUWA           [*]
 
 """
-ip = int(input("ENTER ANY HOST IP  Ex: 127.0.0.3  :."))
+ip = input("ENTER ANY HOST IP  Ex: 127.0.0.3  :.")
 host = ip
 port = 4444
 
