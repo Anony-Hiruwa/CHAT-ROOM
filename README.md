@@ -3,9 +3,13 @@
 # HOW TO USE 
 
 > apt-get update -y
+
 > apt-get upgrade -y
+
 > apt install python -y
+
 > git clone https://github.com/Dark-Knight-Hiruwa/CHAT-ROOM.git
+
 > cd CHAT-ROOM
 
 # චැට් රූම් එක හදන කෙනා ඒ කියන්නෙ උඩ කමාන්ඩ් ගහලා ඉවර උනාට පස්සෙ ඇඩ්මින් කරන්න ඕනා දේ ─
