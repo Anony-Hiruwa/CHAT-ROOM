@@ -1,4 +1,4 @@
-# This tool is encoded using the .PY3 Compile Tool
+# This tool is encoded by HIRUWA
 # TOOL BY HIRUW
 
 import base64
