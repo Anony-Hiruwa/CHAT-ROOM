@@ -35,7 +35,7 @@ def slowprint(s):
 print(banner)
 slowprint(colors.pink + "[CONNECTING] Connecting to server..." )
 slowprint(colors.green + "[CONNECTED] Connected to server...")
-ip = int(input("ENTER YOUR SERVER IP : "))
+ip = input("ENTER YOUR SERVER IP : ")
 nickname = input(colors.blue + "[+] Enter your username : ")
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
