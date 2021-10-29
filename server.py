@@ -24,7 +24,7 @@ banner = colors.cyan + """
  [*]    DEVELOPED BY HIRUWA           [*]
 
 """
-host = '127.0.0.1'
+host = '127.0.0.3'
 port = 4444
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
